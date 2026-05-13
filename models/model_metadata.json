@@ -1,0 +1,27 @@
+{
+  "test_accuracy": 0.7093,
+  "roc_auc": 0.7656,
+  "n_features": 20,
+  "features": [
+    "down",
+    "ydstogo",
+    "yardline_100",
+    "score_differential",
+    "half_seconds_remaining",
+    "game_seconds_remaining",
+    "shotgun",
+    "no_huddle",
+    "goal_to_go",
+    "red_zone",
+    "yardline_x_down",
+    "ydstogo_x_down",
+    "score_diff_abs",
+    "losing",
+    "winning",
+    "late_game",
+    "two_minute_drill",
+    "3rd_or_4th",
+    "must_pass",
+    "short_yardage"
+  ]
+}
