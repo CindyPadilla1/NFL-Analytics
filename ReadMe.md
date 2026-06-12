@@ -2,7 +2,7 @@
 
 ## Dashboard preview
 
-![NFL Analytics Dashboard](dashboard_preview.png)
+![NFL Analytics Dashboard](dashboardPreview.png)
 
 > Bears navy + orange theme · KPI cards · EPA scatter · 3rd down conversion · red zone TD rate · pass rate heatmap · Bears weekly EPA trend (2022–2024)
 
